@@ -2,10 +2,6 @@
 
 Hands-on AZ-104 study project: deploying VMs across resource groups with custom RBAC, disk encryption, and cost controls — built entirely in Bicep, with PowerShell used for diagnostics, role management, and encryption.
 
-## Problem
-
-How do you secure virtual machines while controlling who can manage them and what they cost? This lab builds a small but realistic environment to practice three AZ-104 domains at once: compute deployment, identity and access (custom RBAC), and cost management — using modular, reusable Infrastructure as Code rather than one-off portal clicks.
-
 ## Architecture
 
 Two isolated environments, each in its own resource group, built from the same reusable Bicep modules called with different parameters.
