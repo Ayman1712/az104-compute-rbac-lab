@@ -1,9 +1,0 @@
-{
-  "$schema": "https://schema.management.azure.com/schemas/2018-05-01/subscriptionDeploymentParameters.json#",
-  "contentVersion": "1.0.0.0",
-  "parameters": {
-    "environment": { "value": "dev" },
-    "location": { "value": "australiaeast" },
-    "vmSize": { "value": "Standard_D2s_v3" }
-  }
-}
