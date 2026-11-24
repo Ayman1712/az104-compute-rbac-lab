@@ -154,7 +154,7 @@ ADE's memory requirements rule out the smallest burstable sizes: 2 GB minimum fo
 
 ## Screenshots
 
-- Resource groups and deployment history (portal)
-- Deployed VNets and subnets (`Get-AzVirtualNetwork` + portal)
-- Custom role permissions, assignable scopes, and JSON definition (portal)
-- `QuotaExceeded` / Cost Management offer-type errors, as evidence of the documented limitations
+<img width="1014" height="315" alt="image" src="https://github.com/user-attachments/assets/03e91842-4f62-41a4-9e66-e0cb1c219071" />
+<img width="806" height="406" alt="image" src="https://github.com/user-attachments/assets/20974208-701a-476a-8491-a1d6cf759b86" />
+<img width="798" height="439" alt="image" src="https://github.com/user-attachments/assets/d3942f69-46b3-4be6-8ee8-20a0edfe32e9" />
+
